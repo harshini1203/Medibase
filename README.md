@@ -2,6 +2,13 @@
 
 Medibase is a secure digital medical document manager that lets users upload, store, and share medical records with doctors using session-based access.
 
+## Problem statement 
+
+Patients and families often struggle to manage and share medical records, especially when dealing with multiple specialists. Traditional record-keeping systems are fragmented and insecure, leading to misplaced documents, repeated history explanations, and potential errors in care. Healthcare data is also highly vulnerable, with one of the highest breach rates across industries.
+
+**Medibase** addresses these challenges by providing a secure, centralized platform built on MongoDB. All data in the backend is encrypted to ensure maximum privacy and protection. Patients can easily store, organize, and share medical records with trusted doctors—ensuring security, accessibility, and a smoother healthcare experience.
+
+
 ## 🔧 Project Structure
 
 - `frontend/` – React-based UI  
