@@ -20,6 +20,8 @@ Patients and families often struggle to manage and share medical records, especi
 ## Demo:
 Here is a demo of the system. 
 
+https://github.com/user-attachments/assets/90cb650d-4406-4d4a-9675-9758718b16af
+
 ## Features: 
 
 ### Registration page 
