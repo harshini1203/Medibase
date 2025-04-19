@@ -7,8 +7,10 @@ Medibase is a secure digital medical document manager that lets users upload, st
 - `frontend/` – React-based UI  
 - `backend/` – Node.js + MongoDB API with session-based file sharing  
 
-### System Flowchart
+## System Flowchart
 <p align="center"><img src="Screenshots/FinalFlowchart.png" width="700" /></p>
+
+## Features: 
 
 ### Registration page 
 #### To onboard new users.
@@ -106,8 +108,7 @@ Medibase is a secure digital medical document manager that lets users upload, st
 ### Help page
 <p align="center"><img src="Screenshots/HelpPage.png" width="700" /></p>
 
-### Backend
-
+## Backend
 ### userData collection
 #### This collection contains all details of the user
 
