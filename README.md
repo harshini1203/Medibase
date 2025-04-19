@@ -51,7 +51,8 @@ Medibase is a secure digital medical document manager that lets users upload, st
 #### Search feature with suggestions for file names.
 <p align="center"><img src="Screenshots/searchFeature.png" width="700" /></p>
 
-### 
+### Menu options 
+#### Options like delete, rename,
 <p align="center"><img src="Screenshots/MenuOptions.png" width="700" /></p>
 <p align="center"><img src="Screenshots/ChangeCategory.png" width="700" /></p>
 <p align="center"><img src="Screenshots/DownloadFeature.png" width="700" /></p>
