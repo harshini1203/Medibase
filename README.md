@@ -109,7 +109,7 @@ Medibase is a secure digital medical document manager that lets users upload, st
 ### Backend
 
 ### userData collection
-#### This collection contains all details of the user - password, email, uniquely generated user root key which is encrypted
+#### This collection contains all details of the user
 <p align="center"><img src="Screenshots/userData.png" width="700" /></p>
 
 <p align="center"><img src="Screenshots/userData_Collection.png" width="700" /></p>
