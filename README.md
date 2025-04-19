@@ -84,12 +84,16 @@ Medibase is a secure digital medical document manager that lets users upload, st
 
 #### A secure file link is sent to the doctor's verified email.
 <p align="center"><img src="Screenshots/SecureAccessLink.png" width="700" /></p>
+
+#### Once the link is clicked, the doctor can view the files in view only mode.
 <p align="center"><img src="Screenshots/DoctorSession.png" width="700" /></p>
 
 ### Access Denied Page 
-#### Access is denied if the link is attempted to be accessed in a different browser at the same time.
+#### Access is denied if the link is attempted to be accessed by a different person at the same time.
 <p align="center"><img src="Screenshots/AccessDenied.png" width="700" /></p>
 
+### Active chats feature
+#### On the patient's side, all active chats with doctors can be viewed.
 <p align="center"><img src="Screenshots/ActiveChatDoctor.png" width="700" /></p>
 <p align="center"><img src="Screenshots/ActiveChatsPage.png" width="700" /></p>
 
