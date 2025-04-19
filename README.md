@@ -112,8 +112,8 @@ Medibase is a secure digital medical document manager that lets users upload, st
 #### This collection contains all details of the user
 <p align="center"><img src="Screenshots/userData.png" width="700" /></p>
 
-<p align="center"><img src="Screenshots/userData_Collection.png" width="700" /></p>
-<p align="center"><img src="Screenshots/userFiles.png" width="700" /></p>
+![image](https://github.com/user-attachments/assets/a287e32b-ad80-48a2-838c-401bd0b46881)
+
 <p align="center"><img src="Screenshots/userSessionData.png" width="700" /></p>
 
 ## 🚀 Features
