@@ -111,7 +111,18 @@ Medibase is a secure digital medical document manager that lets users upload, st
 ### userData collection
 #### This collection contains all details of the user
 <p align="center"><img src="Screenshots/userData.png" width="700" /></p>
-
+<p>
+• User ID – A unique identifier for each user.
+• Username – The user’s chosen display name or login name.
+• Hashed Password – Securely stored (not in plain text).
+• Email – Used for communication and verification.
+• Categories – A list of file categories specific to the user.
+• Encrypted User Root Key – Generated at registration, used for encryption/decryption
+purposes.
+• Session ID – Created at login, identifies the user’s session.
+23
+</p>
+• Session Expiry – Timestamp set to one hour after login; used to auto-logout the user.
 <p align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98334746/435386973-a287e32b-ad80-48a2-838c-401bd0b46881.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250419T110900Z&X-Amz-Expires=300&X-Amz-Signature=6157e30a920308705186644e2c44b09365f463dc02b486f74555e241b3dff7b3&X-Amz-SignedHeaders=host" width="700" /></p>
 
 
