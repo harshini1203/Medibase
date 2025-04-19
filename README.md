@@ -52,24 +52,42 @@ Medibase is a secure digital medical document manager that lets users upload, st
 <p align="center"><img src="Screenshots/searchFeature.png" width="700" /></p>
 
 ### Menu options 
-#### Options like delete, rename,
+#### Options like delete, rename, change category, download.
 <p align="center"><img src="Screenshots/MenuOptions.png" width="700" /></p>
+
+### Change category 
+#### The file's category can be changed using this feature
 <p align="center"><img src="Screenshots/ChangeCategory.png" width="700" /></p>
+
+### Download files feature
 <p align="center"><img src="Screenshots/DownloadFeature.png" width="700" /></p>
+
+### Rename files feature
 <p align="center"><img src="Screenshots/RenameFile.png" width="700" /></p>
 <p align="center"><img src="Screenshots/UpdatedResult.png" width="700" /></p>
 
+### Verification of email
+#### Email is sent to doctor with the json web token embedded in it, and it is verified once the doctor clicks on it.
 <p align="center"><img src="Screenshots/VerifyEmailPage.png" width="700" /></p>
 <p align="center"><img src="Screenshots/VerificationMailDoctor.png" width="700" /></p>
+
+#### Web page automatically updates the status of the email once doctor verifies it through email.
 <p align="center"><img src="Screenshots/VerificationSuccessfulRedirect.png" width="700" /></p>
 <p align="center"><img src="Screenshots/EmailVerifiedDisplay.png" width="700" /></p>
 
+### Select files feature
+#### Specific files can be selected to be sent to the doctor's email.
 <p align="center"><img src="Screenshots/SelectFilesPage.png" width="700" /></p>
+
+#### Doctor's email can be selected only if it's verified.
 <p align="center"><img src="Screenshots/ChooseVerifiedEmail.png" width="700" /></p>
+
+#### A secure file link is sent to the doctor's verified email.
 <p align="center"><img src="Screenshots/SecureAccessLink.png" width="700" /></p>
 <p align="center"><img src="Screenshots/DoctorSession.png" width="700" /></p>
 
-### Access Denied Page – Access is denied if the link is attempted to be accessed in a different browser at the same time.
+### Access Denied Page 
+#### Access is denied if the link is attempted to be accessed in a different browser at the same time.
 <p align="center"><img src="Screenshots/AccessDenied.png" width="700" /></p>
 
 <p align="center"><img src="Screenshots/ActiveChatDoctor.png" width="700" /></p>
