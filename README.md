@@ -99,12 +99,19 @@ Medibase is a secure digital medical document manager that lets users upload, st
 #### On the patient's side, all active chats with doctors can be viewed.
 <p align="center"><img src="Screenshots/ActiveChatsPage.png" width="700" /></p>
 
+### Categories page
+#### All the categories for the user along with file count for each category can be viewed.
 <p align="center"><img src="Screenshots/ViewCategories.png" width="700" /></p>
 
+### Help page
 <p align="center"><img src="Screenshots/HelpPage.png" width="700" /></p>
 
 ### Backend
+
+### userData collection
+#### This collection contains all details of the user - password, email, uniquely generated user root key which is encrypted
 <p align="center"><img src="Screenshots/userData.png" width="700" /></p>
+
 <p align="center"><img src="Screenshots/userData_Collection.png" width="700" /></p>
 <p align="center"><img src="Screenshots/userFiles.png" width="700" /></p>
 <p align="center"><img src="Screenshots/userSessionData.png" width="700" /></p>
