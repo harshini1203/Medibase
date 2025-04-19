@@ -93,8 +93,10 @@ Medibase is a secure digital medical document manager that lets users upload, st
 <p align="center"><img src="Screenshots/AccessDenied.png" width="700" /></p>
 
 ### Active chats feature
-#### On the patient's side, all active chats with doctors can be viewed.
+#### The files sent in the particular chat can be viewed.
 <p align="center"><img src="Screenshots/ActiveChatDoctor.png" width="700" /></p>
+
+#### On the patient's side, all active chats with doctors can be viewed.
 <p align="center"><img src="Screenshots/ActiveChatsPage.png" width="700" /></p>
 
 <p align="center"><img src="Screenshots/ViewCategories.png" width="700" /></p>
