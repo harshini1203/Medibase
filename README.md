@@ -112,7 +112,8 @@ Medibase is a secure digital medical document manager that lets users upload, st
 #### This collection contains all details of the user
 <p align="center"><img src="Screenshots/userData.png" width="700" /></p>
 
-![image](https://github.com/user-attachments/assets/a287e32b-ad80-48a2-838c-401bd0b46881)
+<p align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98334746/435386973-a287e32b-ad80-48a2-838c-401bd0b46881.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250419T110900Z&X-Amz-Expires=300&X-Amz-Signature=6157e30a920308705186644e2c44b09365f463dc02b486f74555e241b3dff7b3&X-Amz-SignedHeaders=host" width="700" /></p>
+
 
 <p align="center"><img src="Screenshots/userSessionData.png" width="700" /></p>
 
