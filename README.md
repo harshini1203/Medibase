@@ -76,12 +76,4 @@ Medibase is a secure digital medical document manager that lets users upload, st
 
 ## 🚀 Features
 
-- MetaMask wallet integration  
-- Drag and drop document uploads  
-- Session ID-based doctor access  
-- IPFS and blockchain integration  
-- JWT session validation and email verification
 
----
-
-Built with ❤️ by [your-name]
