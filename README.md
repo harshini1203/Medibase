@@ -124,9 +124,36 @@ Medibase is a secure digital medical document manager that lets users upload, st
   
 <p align="center"><img src="Screenshots/userData.png" width="700" /></p>
 
+### sessionData collection:
+
+#### Contains data about the session created for sharing files with doctor. 
+
+**Fields:**
+
+- **id** – Auto-generated unique identifier for the session document.  
+- **sessionId** – A UUID that uniquely identifies the session.  
+- **userId** – ID of the user initiating the session.  
+- **doctorName** – Name of the doctor assigned to this session.  
+- **doctorEmail** – Encrypted email ID of the doctor.  
+- **sessionState** – Status of the session (e.g., `"Inactive"`).  
+- **files** – An array of file IDs shared in the session.  
+- **createdAt** – ISO 8601 timestamp indicating when the session was created.  
+- **sessionOwnerId** – ID of the user who owns/controls the session (typically the doctor accessing the files).  
 <p align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98334746/435386973-a287e32b-ad80-48a2-838c-401bd0b46881.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250419T110900Z&X-Amz-Expires=300&X-Amz-Signature=6157e30a920308705186644e2c44b09365f463dc02b486f74555e241b3dff7b3&X-Amz-SignedHeaders=host" width="700" /></p>
 
+### userSessionData collection: 
 
+#### Contains data about the doctor emails stored for each session
+
+**Fields:**
+
+- **id** – Auto-generated unique identifier for the document.  
+- **userId** – The ID of the user linked to this session data (typically the patient).  
+- **emails** – An array containing email objects (can be empty or have one/multiple entries), each with:
+  - **email** – The doctor’s email address.  
+  - **status** – Verification status of the email. Possible values:
+    - `"verified"`  
+    - `"unverified"`  
 <p align="center"><img src="Screenshots/userSessionData.png" width="700" /></p>
 
 ## 🚀 Features
