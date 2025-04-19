@@ -1,6 +1,6 @@
 # Medibase 🏥
 
-Medibase is a secure digital medical document manager that lets users upload, store, and share medical records using session-based access.
+Medibase is a secure digital medical document manager that lets users upload, store, and share medical records with doctors using session-based access.
 
 ## 🔧 Project Structure
 
@@ -13,11 +13,11 @@ Medibase is a secure digital medical document manager that lets users upload, st
 ## Features: 
 
 ### Registration page 
-#### To onboard new users.
+To onboard new users.
 <p align="center"><img src="Screenshots/RegistrationPage.png" width="700" /></p>
 
 ### Forgot password page
-#### An email embedded with a secure link that leads to the reset password page is sent to the specified registered user.
+An email embedded with a secure link that leads to the reset password page is sent to the specified registered user.
 <p align="center"><img src="Screenshots/ForgotPassword.png" width="700" /></p>
 
 ### Link to reset password 
