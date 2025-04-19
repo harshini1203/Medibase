@@ -1,6 +1,6 @@
 # Medibase 🏥
 
-Medibase is a secure digital medical document manager that lets users upload, store, and share medical records across departments using session-based access.
+Medibase is a secure digital medical document manager that lets users upload, store, and share medical records using session-based access.
 
 ## 🔧 Project Structure
 
